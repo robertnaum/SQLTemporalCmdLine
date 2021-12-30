@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SQLTemporalCmdLine": {
+      "commandName": "Project",
+      "commandLineArgs": "add --nullable=true  KPRSGold dbo.Products epa_id varchar(30)"
+    }
+  }
+}
